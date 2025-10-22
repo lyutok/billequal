@@ -36,8 +36,8 @@
   z-index: 3; /* 👈 This ensures it stays above the SVG */
   margin-bottom: -40px; /* Moves it down toward the wave visually */
   /* box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3); */
-  border-radius: 35px;
-  max-width: 50%;
+  /* border-radius: 35px; */
+  /* max-width: 50%; */
 }
 
 .icon-square {
