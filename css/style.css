@@ -54,11 +54,4 @@
   border-radius: 2px;
 }
 
-/* .message-preview {
-  background: #f8f9fa;
-  border-radius: 16px;
-  padding: 1.5rem;
-  max-width: 420px;
-  margin: auto;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-} */
+.w-90 { width: 90% !important; }
